@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Formado em Administração desde 2016, fui percebendo ano após ano que aquela não era a área que me fazia feliz. Em 2021 decidi conhecer mais sobre tecnologia e hoje estou em processo de transição de carreira para ser um desenvolvedor de softwares.
 
-Pensando nos próximos passos da minha carreira, estou cursando uma segunda graduação e o projeto para o primeiro ano do curso é o desenvolvimento – do início ao fim – do Health Track, um aplicativo com foco no monitoramento da saúde dos usuários.
+Pensando nos próximos passos da minha carreira, estou cursando uma segunda graduação voltada à área de programação.
 
 💻 Atualmente estudando <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong>.
 
