@@ -19,10 +19,7 @@ Formado em Administração desde 2016, fui percebendo ano após ano que aquela n
 
 Pensando nos próximos passos da minha carreira, estou cursando uma segunda graduação voltada à área de programação.
 
-💻 Atualmente estudando <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong>.
-
-
-<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpriolo&layout=compact&theme=github_dark&custom_title=Linguagens%20mais%20usadas"/>
+💻 Atualmente focado em <strong>Java</strong> e <strong>SQL</strong>.
 
 <a href="https://www.linkedin.com/in/renatopriolo/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
