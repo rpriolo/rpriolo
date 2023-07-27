@@ -21,6 +21,6 @@ Pensando nos próximos passos da minha carreira, estou cursando uma segunda grad
 
 💻 Atualmente focado em <strong>Java</strong> e <strong>SQL</strong>.
 
-<a href="https://www.linkedin.com/in/renatopriolo/">
+<a href="https://www.linkedin.com/in/rpriolo/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>    
