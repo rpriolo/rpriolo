@@ -19,7 +19,7 @@ Formado em Administração desde 2016, fui percebendo ano após ano que aquela n
 
 Pensando nos próximos passos da minha carreira, estou cursando uma segunda graduação voltada à área de programação.
 
-💻 Atualmente focado em <strong>Java</strong> e <strong>SQL</strong>.
+💻 Atualmente focado em <strong>Java</strong>, <strong>Spring Boot</strong> e <strong>MySQL</strong>.
 
 <a href="https://www.linkedin.com/in/rpriolo/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
