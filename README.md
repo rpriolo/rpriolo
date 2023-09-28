@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ### Olá!
 
-Formado em Administração desde 2016, fui percebendo ano após ano que aquela não era a área que me fazia feliz. Em 2021 decidi conhecer mais sobre tecnologia e hoje estou em processo de transição de carreira para ser um desenvolvedor de softwares.
+Formado em Administração desde 2016, fui percebendo ano após ano que aquela não era a área que me fazia feliz. Como sempre gostei muito de tecnologia, passei a pesquisar mais sobre a área e hoje estou em processo de transição de carreira para ser um desenvolvedor.
 
-Pensando nos próximos passos da minha carreira, estou cursando uma segunda graduação voltada à área de programação.
+Pensando nos próximos passos da minha carreira, estou cursando uma segunda graduação voltada à área de programação e estudo em outras plataformas para aprimorar meus conhecimentos.
 
-💻 Atualmente focado em <strong>Java</strong>, <strong>Spring Boot</strong> e <strong>MySQL</strong>.
+💻 Atualmente estou estudando <strong>Java</strong>, <strong>Spring Boot</strong> e <strong>MySQL</strong>.
 
 <a href="https://www.linkedin.com/in/rpriolo/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
